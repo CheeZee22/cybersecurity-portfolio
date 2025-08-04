@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio – Chihiro Tatsukawa
 ---
-<a href="[https://linkedin.com](https://www.linkedin.com/in/chihiro-tatsukawa-1973371b1/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chihiro-tatsukawa-1973371b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## 📌 About Me
 I am a cybersecurity practitioner with hands-on experience in IT operations, security compliance, risk management, and technical security tasks. My work spans developing security SOPs, assisting with GRC and audit readiness, and supporting awareness initiatives.  
 
