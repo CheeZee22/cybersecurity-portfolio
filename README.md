@@ -1,11 +1,6 @@
 # Cybersecurity Portfolio – Chihiro Tatsukawa
-
-**Location:** Herndon, VA  
-**Email:** [tbclub23@gmail.com](mailto:tbclub23@gmail.com)  
-**Phone:** (571) 567-6082  
-
 ---
-
+<a href="[https://linkedin.com](https://www.linkedin.com/in/chihiro-tatsukawa-1973371b1/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## 📌 About Me
 I am a cybersecurity practitioner with hands-on experience in IT operations, security compliance, risk management, and technical security tasks. My work spans developing security SOPs, assisting with GRC and audit readiness, and supporting awareness initiatives.  
 
@@ -13,58 +8,51 @@ I hold active certifications such as **CompTIA Security+** and **ISC2 Certified 
 
 ---
 
-## 📂 Portfolio Structure
-This repository contains samples of my cybersecurity-related projects and documentation:
+## Objective
+To showcase practical cybersecurity skills through hands-on projects focused on threat detection, incident response, vulnerability assessment, and security automation. This portfolio demonstrates expertise in tools and techniques such as SIEM analysis, network forensics, penetration testing, and secure coding practices, with the goal of contributing to real-world defensive and offensive security initiatives.
 
-### **1. Security SOPs & Documentation**
-- [Chrome Extension Risk Review SOP](docs/sop_chrome_extension.md)
-- [Onboarding/Offboarding Security Workflow](docs/sop_onboarding_offboarding.md)
-- [Policy Alignment to NIST CSF & CIS Controls](docs/policy_alignment_nist_cis.md)
+## Skills
 
-### **2. Training & Awareness**
-- [Phishing Awareness Slide Deck](awareness/phishing_awareness_slide_deck.md)
-- [Policy Reminder Templates](awareness/policy_reminder_templates.md)
-- [Vendor Security Guidance](awareness/vendor_security_guidance.md)
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### **3. GRC & Audit Support**
-- [Vendor Risk Assessment Checklist](grc/vendor_risk_assessment.md)
-- [Access Review Documentation](grc/access_review_doc.md)
-- [Compliance Evidence Preparation](grc/compliance_evidence_prep.md)
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### **4. Technical Engagement**
-- [PowerShell Script for Ticket Automation](scripts/powershell_ticket_automation.ps1)
-- [EDR Triage Process Notes (CrowdStrike)](scripts/edr_triage_notes.md)
-- [M365 Access Review Workflow](scripts/m365_access_review.md)
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
----
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-## ✅ Certifications
-- **CompTIA Security+** (Active)
-- **ISC2 Certified in Cybersecurity (CC)** (Active)
-- **CGRC by ISC2** (In Progress)
-- Additional: CompTIA Network+, A+, Google IT Support Professional Certificate
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
----
-
-## 🛠 Tools & Technologies
-- **SIEM & EDR:** CrowdStrike, Splunk, ELK  
-- **Automation:** PowerShell, Google Macros, Zapier  
-- **Platforms:** Okta, Jamf, Quickbase, Google Workspace (Admin)  
-- **Networking & Analysis:** Wireshark, Nmap  
-- **Frameworks:** NIST CSF, CIS Controls, SOC 2 Principles  
-
----
-
-## 🔍 How to Use This Portfolio
-- Browse the folders for **documentation**, **scripts**, and **reports**.
-- Each section includes context, objectives, and compliance mapping where applicable.
-
----
-
-## 📫 Contact
-If you’d like to collaborate, discuss security frameworks, or explore opportunities:  
-- **Email:** [tbclub23@gmail.com](mailto:tbclub23@gmail.com)  
-- **LinkedIn:** [PLACEHOLDER_LINK]  
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2CC-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
