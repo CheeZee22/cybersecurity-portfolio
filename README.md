@@ -15,8 +15,8 @@ To showcase practical cybersecurity skills through hands-on projects focused on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href ="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href ="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hreff="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a hreff="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
