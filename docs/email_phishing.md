@@ -5,9 +5,11 @@ Once opened, the hackers can put malware on the victim's computer, steal passwor
 and even commit fraud or launch ransomware attacks.
 
 As it is a common attack, analyzing the phishing emails are common work for the Security Operation Center Analyst role.
-I noted some tools SOPs in this document.
+Here are some quick reference notes of procedures.
 
-## Without Tools: Source Review
+
+
+## Source Review
 You can review the basic information of the potential Phishing emails in the sorce without special email analyzing tools.  
 The source contains the information listed below;
 - The sender's email address / IP address
@@ -22,7 +24,25 @@ The source contains the information listed below;
 
 <br>
 
-## Tool 1: <a href="https://www.phishtool.com/">PhishTool</a> (Community versions)
+## <a href="https://talosintelligence.com/">Cisco Talos</a> (Research the collected information) 
+This intelligence website helps to analyze the potential phishing email with the information you collected from the email. The Cisco Talos can pull the information listed below;
+- Owner Details (IP address, Host name, Domain, Network owner)
+- Email volume data
+- Block lists
+- Top IP Addresses used to send emails in the IP address which you searched by.
+- WHOIS information, etc.
+
+### How-To-Use
+1. Access to the link <a href="https://talosintelligence.com/">Cisco Talos</a>
+2. Search by IP, URL, domain, network owner, or file SHA256.  
+    1. SHA256 can see in Terminal with the command: "sha256sum [File Name]"
+
+The below is the screenshot of Cisco Talos IP address search result:  
+![alt text](https://github.com/CheeZee22/cybersecurity-portfolio/blob/dde58c24e30c0f048187c2e9b79e220e704a6e03/pics/CiscoTalos.png "Cisco Talos")
+
+<br>
+
+## <a href="https://www.phishtool.com/">PhishTool</a> (Community versions)
 PhishTool can do the following features;
 - Perform email analysis - Retrieves metadata from the phishing emails.
 - Analysis with OSINT - The tool has built-in OSINT (open-source intelligence).
@@ -45,18 +65,4 @@ Firstly, you need to create an account and login. (The community version is free
       (i.e., Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM) and Domain-based Message Authentication, Reporting and Conformance (DMARC).)
     - Attachments: Lists any file attachments found in the email.
     - Message URLs: Associated external URLs found in the email will be found here.
-
-<br>
-
-## Tool 2: <a href="https://talosintelligence.com/">Cisco Talos</a> (Research teh collected information) 
-This intelligence website helps to analyze the potential phishing email with the information you collected from the email. The Cisco Talos can pull the information listed below;
-- Owner Details (IP address, Host name, Domain, Network owner)
-- Email volume data
-- Block lists
-- Top IP Addresses used to send emails in the IP address which you searched by.
-- WHOIS information, etc.
-
-### How-To-Use
-1. Access to the link <a href="https://talosintelligence.com/">Cisco Talos</a>
-2. Search by IP, URL, domain, network owner, or file SHA256.
 
